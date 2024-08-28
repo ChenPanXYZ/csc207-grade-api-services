@@ -1,0 +1,3 @@
+MONGO_DB_CONNECTION_STRING=
+SUPER_TOKEN=
+APIS_WITHOUT_TOKENS = ['user_apis.signUp', 'team_apis.get_all_teams', 'user_apis.getAllData', 'user_apis.create_user', 'user_apis.change_password', 'user_apis.checkIfUserExists', 'user_apis.get_user']
